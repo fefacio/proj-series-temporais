@@ -8,7 +8,7 @@ Este repositório possui 3 notebooks, cada um referente a uma base de dados dife
 * ast-lavras: precipitações mensais em Lavras, Minas Gerais, de janeiro de 1966 a dezembro de 1997.
 * ast-tetuan: consumo energético diário em três diferentes zonas de Tetuan, Marrocos, no ano de 2017
 
-Obs: a base de dados presente no repositório é somente necessário para o notebook ast-tetuan. Nos demais notebooks, os dados são obtidos diretamente por linha de código, por meio do site da IME-USP
+Obs: a base de dados presente no repositório é somente necessária para o notebook ast-tetuan. Nos demais notebooks, os dados são obtidos diretamente por linha de código, por meio do site da IME-USP
 
 ## Algortimos utilizados
 
